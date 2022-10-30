@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/amarante</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/cagliostro</item>
+        <item>@font/candal</item>
+        <item>@font/cherry_swash_bold</item>
+        <item>@font/elsie_swash_caps</item>
+        <item>@font/nosifer</item>
+        <item>@font/nothing_you_could_do</item>
+        <item>@font/ribeye</item>
+        <item>@font/rock_salt</item>
+        <item>@font/sarina</item>
+        <item>@font/snowburst_one</item>
+        <item>@font/syncopate</item>
+        <item>@font/zcool_kuaile</item>
+    </array>
+</resources>

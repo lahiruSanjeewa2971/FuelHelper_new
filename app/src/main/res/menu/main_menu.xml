@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/home"/>
+        <item
+            android:id="@+id/add_fuel_station"
+            android:title="New Fuel Station"
+            android:icon="@drawable/fuel_station"/>
+        <item
+            android:id="@+id/view_all"
+            android:title="Show All Stations"
+            android:icon="@drawable/fuel_station"/>
+    </group>
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/logoutButton"
+                    android:title="Log out"
+                    android:icon="@drawable/logout_icon"/>
+                <item
+                    android:id="@+id/dashboard"
+                    android:title="Dashboard"
+                    android:icon="@drawable/ic_baseline_dashboard_24"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>
